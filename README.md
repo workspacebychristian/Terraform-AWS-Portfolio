@@ -31,7 +31,7 @@ The codes are parameterized with variables to ensure reusability and flexibility
 
 Network Access Control List, VPC Security Group and Database Subnet Group will be created. 
 
-By following these steps, you will have a fully functional 3-tier web application VPC on AWS. Feel free to explore, modify, and contribute to the code to fit your needs.
+By following these steps, you will have a fully functional VPC Architecture For B3-tier web Application Server on AWS. Feel free to explore, modify, and contribute to the code to fit your needs.
 
 Contribute If you have any suggestions or improvements, please feel free to fork the repository and submit a pull request. Your contributions are always welcome!
 
