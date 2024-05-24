@@ -21,7 +21,7 @@ Route Tables:
 1 Database Route Table: Associated with the 2 Database Subnets.
 
 Internet Gateway:
-Internet Gateway Associated with Public Subnets.
+Internet Gateway Attached to VPC. 
 
 NAT Gateway:
 
