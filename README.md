@@ -10,15 +10,15 @@ The code is structured to create a robust VPC setup with the following component
 
 Subnets:
 
-2 Private Subnets
-2 Public Subnets
-2 Database Subnets
+2 Private Subnets,
+2 Public Subnets,
+2 Database Subnets.
 
 Route Tables:
 
-1 Public Route Table: Associated with the 2 Public Subnets
-1 Private Route Table: Associated with the 2 Private Subnets
-1 Database Route Table: Associated with the 2 Database Subnets
+1 Public Route Table: Associated with the 2 Public Subnets,
+1 Private Route Table: Associated with the 2 Private Subnets,
+1 Database Route Table: Associated with the 2 Database Subnets.
 
 Internet Gateway:
 Internet Gateway Associated with Public Subnets.
@@ -27,7 +27,7 @@ NAT Gateway:
 
 1 NAT Gateway: Ensures outbound communication for the Private Subnets.
 
-Network Interface will be created
+Network Interface will be created.
 
 1 Elastic IP Address For Private Subnets for OutBound Communication.
 
