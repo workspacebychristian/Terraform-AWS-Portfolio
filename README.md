@@ -20,11 +20,16 @@ Route Tables:
 1 Private Route Table: Associated with the 2 Private Subnets
 1 Database Route Table: Associated with the 2 Database Subnets
 
+Internet Gateway:
+Internet Gateway Associated with Public Subnets.
+
 NAT Gateway:
 
 1 NAT Gateway: Ensures outbound communication for the Private Subnets
 Variables
 The codes are parameterized with variables to ensure reusability and flexibility. This allows you to customize the setup according to your specific requirements.
+
+Network Access Control List, VPC Security Group and Database Subnet Group will be created. 
 
 By following these steps, you will have a fully functional 3-tier web application VPC on AWS. Feel free to explore, modify, and contribute to the code to fit your needs.
 
