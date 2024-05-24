@@ -1,4 +1,4 @@
-Welcome to my GitHub page! Here, you'll find comprehensive code to build a 3-tier web application VPC on AWS. This repository contains everything you need to set up your VPC environment efficiently and securely.
+Welcome to my GitHub page! Here, you'll find comprehensive code to build a functional VPC Architecture For 3-tier web Application Server on AWS. This repository contains everything you need to set up your VPC environment efficiently and securely.
 
 Getting Started
 
@@ -25,17 +25,21 @@ Internet Gateway Associated with Public Subnets.
 
 NAT Gateway:
 
-1 NAT Gateway: Ensures outbound communication for the Private Subnets
+1 NAT Gateway: Ensures outbound communication for the Private Subnets.
+
+Network Interface will be created
+
+1 Elastic IP Address For Private Subnets for OutBound Communication.
+
 Variables
 The codes are parameterized with variables to ensure reusability and flexibility. This allows you to customize the setup according to your specific requirements.
 
+
 Network Access Control List, VPC Security Group and Database Subnet Group will be created. 
 
-By following these steps, you will have a fully functional VPC Architecture For B3-tier web Application Server on AWS. Feel free to explore, modify, and contribute to the code to fit your needs.
 
-Contribute If you have any suggestions or improvements, please feel free to fork the repository and submit a pull request. Your contributions are always welcome!
+By following these steps, you will have a fully functional VPC Architecture For 3-tier web Application Server on AWS. Feel free to explore, modify, and contribute to the code to suit your needs.
 
-Contact If you encounter any issues or have any questions, please open an issue in the repository or contact me directly.
 
 Happy coding! 🚀
 
